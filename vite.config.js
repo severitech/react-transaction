@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'https://severitech.github.io/transaction-react'
+  base: 'https://severitech.github.io/react-transaction'
 })
